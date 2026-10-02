@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "reviewedAt": "2026-10-02",
+  "format": "david",
+  "upstream": "https://github.com/dep62-byte/itogi-vstrechi",
+  "pricingBasis": "Программа AI Booster, проверена 02.10.2026; правила внутреннего формата от20.09.2026.",
+  "openQuestions": [
+    "Enterprise custom development scope",
+    "Future cohort calendar"
+  ],
+  "rawClientDataIncluded": false
+}
