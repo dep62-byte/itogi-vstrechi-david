@@ -1,12 +1,14 @@
 {
-  "version": "1.0.0",
-  "reviewedAt": "2026-10-02",
+  "version": "1.1.0",
+  "reviewedAt": "2026-10-21",
   "format": "david",
   "upstream": "https://github.com/dep62-byte/itogi-vstrechi",
-  "pricingBasis": "Программа AI Booster, проверена 02.10.2026; правила внутреннего формата от20.09.2026.",
+  "pricingBasis": "Коммерческий снимок от 02.10.2026; правило «Лёгкий старт» от 05.10.2026. Синхронизация workflow не означает повторной проверки всей программы.",
   "openQuestions": [
     "Enterprise custom development scope",
     "Future cohort calendar"
   ],
-  "rawClientDataIncluded": false
+  "rawClientDataIncluded": false,
+  "pricingReviewedAt": "2026-10-02",
+  "lightStartReviewedAt": "2026-10-05"
 }
